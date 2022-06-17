@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bggum",
+    "oncran": true
+  },
+  {
+    "package": "RcppDist",
+    "oncran": true
+  }
+]
