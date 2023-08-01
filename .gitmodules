@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bggum"]
-	path = bggum
-	url = https://github.com/duckmayr/bggum
 [submodule "RcppDist"]
 	path = RcppDist
 	url = https://github.com/duckmayr/rcppdist
+[submodule "bggum"]
+	path = bggum
+	url = https://github.com/duckmayr/bggum
